@@ -19,5 +19,5 @@
 
   <strong>Executar os testes</strong>
   
-  - python3 -m pytest
+  - `python3 -m pytest`
   

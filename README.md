@@ -1,6 +1,6 @@
 # Project - Python Queues and Files
   
-  Esse simples projeto mostra a implementação da estruta de dados conhecida como Fila em **Python**. Um arquivo txt é lido e suas linhas contadas, esses arquivos são adicionadas a fila e gerenciadas pelas funções desenvolvidas de adição a fila e remoção da fila. Também é desenvolvida uma fila prioritária que leva em consideração o tamanho do arquivo e dá prefência àqueles menores.
+  Esse simples projeto mostra a implementação da estruta de dados conhecida como Fila em **Python**. Arquivos txt são lidos e suas linhas contadas, esses arquivos são adicionadas a fila e gerenciadas pelas funções desenvolvidas de adição a fila e remoção da fila. Também é desenvolvida uma fila prioritária que leva em consideração o tamanho do arquivo e dá prefência àqueles menores.
 
   Existe um teste desenvolvido para garantir a implementação correta da fila prioritária e foi utilizado o **Pytest**.
 
